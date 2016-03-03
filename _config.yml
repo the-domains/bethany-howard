@@ -1,0 +1,28 @@
+name: Bethany Howard
+favicon: null
+layout_spectrum: 0.27719894307665527
+typography_spectrum: 0.27894583181478083
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9773212233558297
+  lightness: 0.46670224890112877
+  saturation: 0.10002532275393605
+  rhythmicContrast: 0.8204929877538234
+purpose: []
